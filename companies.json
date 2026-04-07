@@ -1,4 +1,4 @@
-[
+{
  "Education": [
     { "url": "https://www.ucd.ie/", "condition": "Male" },
     { "url": "https://www.ucd.ie/", "condition": "Female" }
@@ -7,4 +7,4 @@
     { "url": "https://www.ucd.ie/", "condition": "Male" },
     { "url": "https://www.ucd.ie/", "condition": "Female" }
   ]
-]
+}
