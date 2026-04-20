@@ -12,23 +12,23 @@
     { "url": "https://uk.indeed.com/jobs?q=cuerden+care&sort=date&filter=0&vjk=ea69bf2a7aea651f", "condition": "women" }
   ],
  "Distribution, hotels and restaurants": [
-    { "url": "https://jobs.vertucareers.com/vacancies?what=&where=&iso=gb&radius=30&custom=73-_93-#vacancies-section-filters", "condition": "men" },
+    { "url": "https://job-boards.eu.greenhouse.io/lookers", "condition": "men" },
     { "url": "https://claires.wd12.myworkdayjobs.com/en-US/Claires?locations=1174f93edf59011ad91e3e5f69030000&locations=1174f93edf59011ad91ad7bd4b440000&locations=1174f93edf59011ad93d961386640000&locations=1174f93edf59011ad91d92353e9d0000&locations=573484a0908d01003c11def602770000", "condition": "women" }
   ],
  "Transport and communication": [
     { "url": "https://ce0613li.webitrent.com/ce0613li_webrecruitment/wrd/run/ETREC179GF.open?WVID=902972ERXY", "condition": "men" },
-    { "url": "https://www.cerahq.com/jobs", "condition": "women" }
+    { "url": "https://greendestinationsltd.com/about-us/careers/", "condition": "women" }
   ],
  "Financial, real estate, professional and administrative activities": [
-    { "url": "https://briggsandforrester.co.uk/careers/", "condition": "men" },
-    { "url": "https://careers.tfglondon.com/vacancies/vacancy-search-results.aspx?", "condition": "women" }
+    { "url": "https://careers.kiwa.com/en-gb/jobs/", "condition": "men" },
+    { "url": "https://wearegranite.co.uk/careers", "condition": "women" }
   ],
  "Public administration, education and health": [
-    { "url": "https://jll.wd1.myworkdayjobs.com/en-GB/jllcareers/jobs?locationCountry=29247e57dbaf46fb855b224e03170bc7", "condition": "men" },
+    { "url": "https://www.elysiumhealthcare.co.uk/careers/vacancies/vacancy-search-results.aspx", "condition": "men" },
     { "url": "https://workwithus.hopscotchdaynurseries.co.uk/jobs", "condition": "women" }
   ],
   "Other": [
-    { "url": "https://www.lifeatcentrica.com/jobs/?search=&brand=British+Gas&pagesize=20#results", "condition": "Male" },
-    { "url": "https://refugecareers.ciphr-irecruit.com/Applicants/vacancy", "condition": "Female" }
+    { "url": "https://ce0869li.webitrent.com/ce0869li_webrecruitment/wrd/run/etrec179gf.open?wvid=0429722CXH", "condition": "men" },
+    { "url": "https://uk.indeed.com/jobs?q=indigo+sun&l=&from=searchOnHP&vjk=c729809d7193f133", "condition": "women" }
   ]
 }
